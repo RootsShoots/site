@@ -50,12 +50,13 @@ h4,
 .hx {
     font-family: 'Lato', sans-serif;
     font-weight: 700;
-    color: #489426;
+    margin: 0 0 20px 0;
 }
 
 h1,
 .h1 {
     font-size: 40px;
+
     color: #826322;
 }
 
@@ -75,6 +76,14 @@ h4,
 
 }
 
+p {
+    margin: 0 0 10px 0;
+}
+
+.align-right {
+    text-align: right;
+}
+
 
 /*-
     Link styles
@@ -82,11 +91,11 @@ h4,
     @module link-styles
 */
 a {
-
+    color: #489426;
 }
 
-a:visted {
-
+a:visited {
+    color: #2B5917;
 }
 
 a:hover {
@@ -98,3 +107,166 @@ a:visited:hover {
 }
 
 
+/*=
+    Layout
+
+    @module layout
+*/
+body {
+    background: #f0f0f0;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1200px;
+    background: #fff;
+    border-radius: 20px;
+}
+
+
+
+/*=
+    Logo
+
+    @module logo
+*/
+.logo {
+    display: block;
+    max-width: 300px;
+    background: no-repeat url(../img/logo.svg);
+    background-size: 100% auto;
+}
+
+.no-svg .logo {
+    background-image: url(../logo.png);
+}
+
+.logo-holder {
+    width: 100%;
+}
+
+/*=
+    Primary nav
+
+    @module primary-nav
+*/
+.primary-nav {
+    margin: 20px -20px;
+    padding: 0 30px;
+     background-color: #846523;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(#846523), to(#593D13)); /* Chrome, Safari 4+ */
+     background-image: -webkit-linear-gradient(top, #846523, #593D13); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
+     background-image:    -moz-linear-gradient(top, #846523, #593D13); /* Firefox 3.6-15 */
+     background-image:      -o-linear-gradient(top, #846523, #593D13); /* Opera 11.10-12.00 */
+     background-image:         linear-gradient(to bottom, #846523, #593D13); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.50+ */
+ }
+
+ .primary-nav a {
+     display: inline-block;
+     padding: 10px;
+     color: #fff;
+     text-decoration: none;
+ }
+
+ .primary-nav a:hover {
+    background: rgba(255, 255, 255, .1);
+ }
+
+
+ /*=
+    Slider
+
+    @module slider
+*/
+.slider-container {
+    position: relative;
+    height: 450px;
+    overflow: hidden;
+    -webkit-transform: translateZ(0);  /* Chrome, Safari 3.1+ */
+       -moz-transform: translateZ(0);  /* Firefox 3.5-15 */
+        -ms-transform: translateZ(0);  /* IE 9 */
+         -o-transform: translateZ(0);  /* Opera 10.50-12.00 */
+            transform: translateZ(0);  /* Firefox 16+, IE 10+, Opera 12.50+ */
+}
+
+.slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.slider.transition {
+     -webkit-transition: left .75s ease-out;  /* Chrome 1-25, Safari 3.2+ */
+        -moz-transition: left .75s ease-out;  /* Firefox 4-15 */
+          -o-transition: left .75s ease-out;  /* Opera 10.50–12.00 */
+             transition: left .75s ease-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.50+ */
+}
+
+.slider-container .slide {
+    float: left;
+}
+
+.slide {
+    height: 450px;
+    position: relative;
+}
+
+.slide img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.slide h2 {
+    position: absolute;
+    bottom: 0;
+}
+
+/*=
+    Contact form
+
+    @module contact-form
+*/
+.contact-container {
+    position: fixed;
+    top: 30px;
+    left: 0;
+    right: 0;
+}
+
+.contact-inner {
+    position: relative;
+    display: none;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    max-width: 500px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, .3);
+}
+
+.contact-inner.show {
+    display: block;
+}
+
+.contact-close {
+    position: absolute;
+    display: inline-block;
+    top: -.5em;
+    right: -.5em;
+    background: red;
+    border-radius: 100%;
+    font-size: 0.8em;
+    line-height: 2em;
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, .3);
+}
+
+.contact-close:visited {
+    color: #fff;
+}

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="slider" data-slider="true">
+    {% for slide in page.slides %}
+        <div class="slide">
+            <img src="img/{{ slide.img }}" alt="{{ slide.title }}" />
+            <h2>{{ slide.title }}</h2>
+        </div>
+    {% endfor %}
+</div>
+
+<div class="row">
+    <div class="span2">
+        <img />
+    </div>
+    <div class="span8">
+        {{ content }}
+    </div>
+    <div class="span2">
+        <img />
+    </div>
+</div>
