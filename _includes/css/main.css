@@ -1,0 +1,100 @@
+/*!
+    Roots and Shoots
+    Just a simple website
+
+    @version 1
+    @used http://www.rootsandshootsgc.co.uk
+*/
+
+
+
+/*=
+    Base styles
+
+    @module base
+*/
+
+
+/*-
+    Base typography
+
+    @module base-typography
+*/
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+
+/*-
+    Headings
+
+    @module headings
+*/
+h1,
+h2,
+h3,
+h4,
+.h1,
+.h2,
+.h3,
+.h4,
+.hx {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #489426;
+}
+
+h1,
+.h1 {
+    font-size: 40px;
+    color: #826322;
+}
+
+
+h2,
+.h2 {
+    font-size: 40px;
+}
+
+h3,
+.h3 {
+
+}
+
+h4,
+.h4 {
+
+}
+
+
+/*-
+    Link styles
+
+    @module link-styles
+*/
+a {
+
+}
+
+a:visted {
+
+}
+
+a:hover {
+
+}
+
+a:visited:hover {
+
+}
+
+
