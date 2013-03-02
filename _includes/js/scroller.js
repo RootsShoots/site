@@ -15,7 +15,7 @@
         }
     });
 
-    function Slider (el, options) {
+    function Slider (el) {
         this.$el = $(el);
         this.children = this.$el.children();
         if (this.children.length < 2) return;
@@ -25,7 +25,7 @@
         this.children.css('width', 100 / this.children.length + "%");
         this.timer = 0;
         var defaults = { interval: 4000 };
-        $.extend(this, defaults, options);
+        $.extend(this, defaults, this.$el.data());
         this.bind();
         this.startTimer();
     }
@@ -61,11 +61,10 @@
         }
     };
 
-    Slider.prototype.step = function (override) {
+    Slider.prototype.step = function () {
         if (this.paused) return;
-        var that = this;
-        that.$el.addClass('transition');
-        that.$el.css('left', '-100%');
+        this.$el.addClass('transition');
+        this.$el.css('left', '-100%');
         if (!transitionEvent) {
             this.tidyUp();
         }
