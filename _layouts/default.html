@@ -30,18 +30,22 @@
                 </div> 
             </div>
 
-            <nav id="main-nav" class="primary-nav" role="navigation">
-                <a href="#">Plants</a>
-                <a href="#">Pots</a>
-                <a href="#">Wildbird</a>
-                <a href="#">Aquatic</a>
-                <a href="#">Aggregates</a>
-                <a href="#">Compost</a>
-                <a href="#">Irrigation</a>
-                <a href="#">Furniture</a>
-                <a href="#">Gifts</a>
-                <a href="#">Poultry</a>
-                <a href="#">Seasonal</a>
+            <nav id="main-nav" class="navbar navbar-alt" role="navigation">
+                <div class="navbar-inner">
+                    <ul class="nav">
+                        <li class="{% if page.title == "Home" %}active{% endif %}"><a href="/">Home</a></li>
+                        <!--<li><a href="#">Pots</a></li>-->
+                        <!--<li><a href="#">Wildbird</a></li>-->
+                        <!--<li><a href="#">Aquatic</a></li>-->
+                        <!--<li><a href="#">Aggregates</a></li>-->
+                        <!--<li><a href="#">Compost</a></li>-->
+                        <!--<li><a href="#">Irrigation</a></li>-->
+                        <!--<li><a href="#">Furniture</a></li>-->
+                        <!--<li><a href="#">Gifts</a></li>-->
+                        <!--<li><a href="#">Poultry</a></li>-->
+                        <!--<li><a href="#">Seasonal</a></li>-->
+                    </ul>
+                </div>
             </nav>
 
         </header>

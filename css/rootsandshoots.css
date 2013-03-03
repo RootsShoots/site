@@ -1,6 +1,7 @@
 ---
 ---
-{% include css/normalize.css %}
-{% include css/grid.css %}
+{% include css/bootstrap.css %}
+
+
 {% include css/main.css %}
 

@@ -19,15 +19,18 @@
         this.$el = $(el);
         this.children = this.$el.children();
         if (this.children.length < 2) return;
-        this.paused = false;
         this.container = this.$el.wrap('<div class="slider-container"></div>');
         this.$el.css('width', this.children.length * 100 + "%");
         this.children.css('width', 100 / this.children.length + "%");
         this.timer = 0;
-        var defaults = { interval: 4000 };
+        var defaults = {
+            interval: 4000,
+            paused: false
+        };
         $.extend(this, defaults, this.$el.data());
         this.bind();
         this.startTimer();
+        console.log(this)
     }
 
     Slider.prototype.bind = function () {
@@ -45,6 +48,7 @@
 
     Slider.prototype.startTimer = function () {
         var that = this;
+        if (that.paused) return;
         that.timer = setTimeout(function () {
             that.step();
         }, this.interval);

@@ -50,13 +50,12 @@ h4,
 .hx {
     font-family: 'Lato', sans-serif;
     font-weight: 700;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
 }
 
 h1,
 .h1 {
     font-size: 40px;
-
     color: #826322;
 }
 
@@ -112,18 +111,13 @@ a:visited:hover {
 
     @module layout
 */
-body {
-    background: #f0f0f0;
+.masthead {
+    padding: 20px 0 0;
 }
 
-.container {
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 1200px;
-    background: #fff;
-    border-radius: 20px;
+.navbar {
+    margin-top: 20px;
 }
-
 
 
 /*=
@@ -147,34 +141,6 @@ body {
 }
 
 /*=
-    Primary nav
-
-    @module primary-nav
-*/
-.primary-nav {
-    margin: 20px -20px;
-    padding: 0 30px;
-     background-color: #846523;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(#846523), to(#593D13)); /* Chrome, Safari 4+ */
-     background-image: -webkit-linear-gradient(top, #846523, #593D13); /* Chrome 10-25, iOS 5+, Safari 5.1+ */
-     background-image:    -moz-linear-gradient(top, #846523, #593D13); /* Firefox 3.6-15 */
-     background-image:      -o-linear-gradient(top, #846523, #593D13); /* Opera 11.10-12.00 */
-     background-image:         linear-gradient(to bottom, #846523, #593D13); /* Chrome 26, Firefox 16+, IE 10+, Opera 12.50+ */
- }
-
- .primary-nav a {
-     display: inline-block;
-     padding: 10px;
-     color: #fff;
-     text-decoration: none;
- }
-
- .primary-nav a:hover {
-    background: rgba(255, 255, 255, .1);
- }
-
-
- /*=
     Slider
 
     @module slider
@@ -213,16 +179,48 @@ body {
 }
 
 .slide img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*width: 100%;*/
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .slide h2 {
     position: absolute;
     bottom: 0;
 }
+
+@media (max-width: 979px) {
+    .slider-container,
+    .slide {
+        height: 320px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider-container,
+    .slide {
+        height: 250px;
+    }
+}
+
+@media (max-width: 512px) {
+    .slider-container,
+    .slide {
+        height: 200px;
+    }
+}
+
+@media (max-width: 320px) {
+    .slider-container,
+    .slide {
+        height: 160px;
+    }
+}
+
+
 
 /*=
     Contact form

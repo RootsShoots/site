@@ -2,7 +2,7 @@
 title: Home
 layout: home
 slides:
-    - img:   file
+    - img:   file.jpg 
       title: title
     - img:   file2
       title: title2
