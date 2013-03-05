@@ -7,7 +7,7 @@ slides:
     - img:   potatoes.jpg
       title: Seed potatoes £3.50 or 3 for £10
     - img:   primroses.jpg
-      title: Primroses 60p each, 10 for £5 15 for £7.25
+      title: Primroses 60p each, 10 for £5, 15 for £7.25
 ---
 
 # Welcome to Roots and Shoots
