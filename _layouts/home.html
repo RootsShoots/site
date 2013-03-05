@@ -10,14 +10,14 @@ layout: default
     {% endfor %}
 </div>
 
-<div class="row">
-    <div class="span2">
-        <img />
-    </div>
+<div class="row-fluid">
     <div class="span8">
-        {{ content }}
+        <div class="well">
+            {{ content }}
+        </div>
     </div>
-    <div class="span2">
-        <img />
+    <div class="span4">
+        {% capture side_bar %}{% include content/vouchers.md %}{% endcapture %}
+        {{ side_bar | unindent | markdownify }}
     </div>
 </div>
