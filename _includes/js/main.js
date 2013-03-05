@@ -9,7 +9,7 @@ $(function () {
 
     var contactContainer = $('.contact-inner');
 
-    $('#contact-btn').on('click', function (e) {
+    $('.contact-btn').on('click', function (e) {
         e.preventDefault();
         $('iframe', contactContainer).remove();
         contactContainer.prepend(contactForm).addClass('show');
