@@ -30,7 +30,7 @@
         $.extend(this, defaults, this.$el.data());
         this.bind();
         this.startTimer();
-        console.log(this)
+        Slider.__sliders__.push(this);
     }
 
     Slider.prototype.bind = function () {
@@ -81,6 +81,8 @@
         this.children = this.$el.children();
         this.startTimer();
     };
+
+    Slider.__sliders__ = [];
 
     window.Slider = Slider;
 
