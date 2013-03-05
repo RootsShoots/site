@@ -24,7 +24,6 @@
         this.children.css('width', 100 / this.children.length + "%");
         this.timer = 0;
         var defaults = {
-            first: true,
             interval: 4000,
             paused: false
         };
@@ -52,8 +51,7 @@
         if (that.paused) return;
         that.timer = setTimeout(function () {
             that.step();
-            that.first = false;
-        }, this.first ? 0 : this.interval);
+        }, this.interval);
     };
 
     Slider.prototype.toggle = function (isMoving) {
