@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="slider" data-slider="true">
+    {% for slide in page.slides %}
+        <div class="slide">
+            <img src="img/{{ slide.img }}" alt="{{ slide.title }}" />
+            <h2>{{ slide.title }}</h2>
+        </div>
+    {% endfor %}
+</div>
+
+<div class="row-fluid">
+    <div class="span8">
+        <div class="well">
+            {{ content }}
+        </div>
+    </div>
+    <div class="span4">
+        {% capture side_bar %}{% include content/vouchers.md %}{% endcapture %}
+        {{ side_bar | unindent | markdownify }}
+    </div>
+</div>
