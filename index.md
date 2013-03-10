@@ -2,8 +2,6 @@
 title: Home
 layout: home
 slides:
-    - img:   mothers-day.jpg 
-      title: Mother's day gifts
     - img:   potatoes.jpg
       title: Seed potatoes £3.50 or 3 for £10
     - img:   primroses.jpg
