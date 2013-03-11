@@ -10,7 +10,7 @@ features:
     img: suet-pellets.jpg
 ---
 
-![Wild Bird Care](/img/960/birds.jpg)
+![Wild Bird Care](img/960/birds.jpg)
 
 # Wild Bird Care
 
