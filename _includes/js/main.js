@@ -22,6 +22,6 @@ $(function () {
 
     var loc = location.pathname.split("/");
     var last = loc[loc.length - 1];
-    $(last == "" ? '#main-nav a:first' : '#main-nav a[href$="' +  + '"]').addClass('active');
+    $(last == "" ? '#main-nav a:first' : '#main-nav a[href$="' + last + '"]').addClass('active');
 
 });
