@@ -21,6 +21,7 @@ $(function () {
     });
 
     var loc = location.pathname.split("/");
-    $('#main-nav a[href$="' + loc[loc.length - 1] + '"]').addClass('active');
+    var last = loc[loc.length - 1];
+    $(last == "" ? '#main-nav a:first' : '#main-nav a[href$="' +  + '"]').addClass('active');
 
 });
