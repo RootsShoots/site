@@ -2,11 +2,11 @@
 title: Home
 layout: home
 slides:
-    - img:   birds.jpg
+    - img:   960/birds.jpg
       title: Wild bird care
-    - img:   potatoes.jpg
+    - img:   960/potatoes.jpg
       title: Seed potatoes £3.50 or 3 for £10
-    - img:   primroses.jpg
+    - img:   960/primroses.jpg
       title: Primroses 60p each, 10 for £5, 15 for £7.25
 ---
 
