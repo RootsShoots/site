@@ -7,8 +7,8 @@ layout: base
     </div>
     <div class="span4 rhs">
         {% for feature in page.features %}
-            <h3>{{ feature.title }}</h3>
-            <img src="img/{{ feature.img }}" alt="{{ feature.title }}" />
+            <p><strong>{{ feature.title }}</strong></p>
+            <p><img src="img/{{ feature.img }}" alt="{{ feature.title }}" /></p>
         {% endfor %}
     </div>
 </div>
