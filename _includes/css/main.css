@@ -351,7 +351,12 @@ a:visited:hover {
     border-top: 1px solid #222;
 }
 
+.lhs img {
+    max-height: 350px;
+}
+
 .rhs img {
     display: block;
     margin: auto;
 }
+
