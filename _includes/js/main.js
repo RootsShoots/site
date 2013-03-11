@@ -20,4 +20,7 @@ $(function () {
         contactContainer.removeClass('show');
     });
 
+    var loc = location.pathname.split("/");
+    $('#main-nav a[href$="' + loc[loc.length - 1] + '"]').addClass('active');
+
 });
