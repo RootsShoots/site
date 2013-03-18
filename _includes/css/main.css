@@ -355,8 +355,10 @@ a:visited:hover {
     max-height: 350px;
 }
 
+.space-img img,
 .rhs img {
     display: block;
     margin: auto;
 }
+
 

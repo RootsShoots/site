@@ -1,16 +1,15 @@
 ---
 title: Wild Bird Care
+img: 620/birds.jpg
 layout: default
 features:
-  - title: Wild Bird Supreme Mix
+  - title: Wild Bird Supreme Mix £11.49
     img: mix.jpeg
-  - title: ChapelWood Suet Balls 50's Refill Bag
+  - title: ChapelWood Suet Balls 50's Refill Bag £7.99
     img: suet-balls.jpg
-  - title: ChapelWood Suet Pellets-Mealworm
+  - title: ChapelWood Suet Pellets-Mealworm £5.99
     img: suet-pellets.jpg
 ---
-
-![Wild Bird Care](img/960/birds.jpg)
 
 # Wild Bird Care
 

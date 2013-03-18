@@ -3,12 +3,17 @@ layout: base
 ---
 <div class="row-fluid">
     <div class="span8 lhs">
+        <div class="banner">
+            <img class="banner-img" src="img/{{ page.img }}" alt="{{ page.title }}" />
+        </div>
         {{ content }}
     </div>
     <div class="span4 rhs">
         {% for feature in page.features %}
             <p><strong>{{ feature.title }}</strong></p>
-            <p><img src="img/{{ feature.img }}" alt="{{ feature.title }}" /></p>
+            {% if feature.img %}
+                <p><img src="img/{{ feature.img }}" alt="{{ feature.title }}" /></p>
+            {% endif %}
         {% endfor %}
     </div>
 </div>
