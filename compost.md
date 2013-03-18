@@ -3,7 +3,7 @@ title: Compost
 layout: default
 img: 620/compost.jpg
 features:
-  - title: Erin Multipurpose Compost<br /> £4.49 per bag
+  - title: Erin Multipurpose Compost<br /> £4.49 per bag, 3 bags for £12
     img: erin-multi-purpose.jpg
   - title: Levington Multi Purpose<br /> £5.99 per bag, 2 bags for £10
     img: levington-multi-purpose.jpg
