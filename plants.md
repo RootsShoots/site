@@ -1,10 +1,8 @@
 ---
 title: Plants
 layout: default
-img: 
+img: 620/plantspage.jpg
 features:
-  - title:
-    img:
 ---
 
 # Plants

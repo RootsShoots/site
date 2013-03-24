@@ -1,10 +1,10 @@
 ---
 title: Pots
 layout: default
-img: 620/pots.jpg
+img: 620/potspage.jpg
 features:
   - title: Some of our Hutton planters
-    img: 
+    img: potssmallpic.jpg
 ---
 
 # Pots

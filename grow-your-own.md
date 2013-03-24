@@ -7,6 +7,8 @@ features:
     img: grow-house.jpg
   - title: 15 cell insert £3.99
     img: cell-insert.jpg
+  - title: Heater
+    img: heater.jpg
 ---
 
 
