@@ -10,7 +10,7 @@ slides:
       title: Primroses 60p each, 10 for £5, 15 for £7.25
 ---
 
-# Welcome to Roots and Shoots
+# Welcome to Roots &amp; Shoots
 
 __An independently owned and managed garden centre in Ipswich__
 
