@@ -22,7 +22,7 @@ At Roots & Shoots we aim to help you to grow your own. For your allotment, garde
         <p><center><img src="img/lawnfeed.jpg" alt="Lawn feed" /></center></p>
     </div>
     <div class="span6">
-        <p><b>7KG poultry manure £7.99,<br /> 10KG bonemill £13.99,<br /> 10KG fish blood and bones</b></p>
+        <p><b>7KG poultry manure £7.99,<br /> 10KG bonemill £13.99,<br /> 10KG fish blood and bones £13.99</b></p>
         <p><center><img src="img/tubs.jpg" alt="tubs" /></center></p>
     </div>
 </div>
