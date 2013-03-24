@@ -3,7 +3,7 @@ title: Pots
 layout: default
 img: 620/potspage.jpg
 features:
-  - title: Some of our Hutton planters
+  - title: Some of our AFK planters
     img: potssmallpic.jpg
 ---
 
