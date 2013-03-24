@@ -5,13 +5,24 @@ layout: default
 features:
   - title: 4 tier growhouse £19.99
     img: grow-house.jpg
-  - title: 15 cell insert £3.99
-    img: cell-insert.jpg
   - title: Greenhouse heater was £39.99 now £29.99
     img: heater.jpg
+  - title: Grow more 15KG sack £14.99
+    img: growmore.jpg
 ---
 
 
 # Grow Your Own
 
 At Roots & Shoots we aim to help you to grow your own. For your allotment, garden or even windowsill we provide all you need including seeds, propagators, compost, canes, cloches and much more.
+
+<div class="row-fluid">
+    <div class="span6">
+        <p><b>Lawn feed weed and moss killer, 400m<sup>2</sup> sack £19.99</b></p>
+        <p><center><img src="img/lawnfeed.jpg" alt="Lawn feed" /></center></p>
+    </div>
+    <div class="span6">
+        <p><b>7KG poultry manure £7.99,<br /> 10KG bonemill £13.99,<br /> 10KG fish blood and bones</b></p>
+        <p><center><img src="img/tubs.jpg" alt="tubs" /></center></p>
+    </div>
+</div>

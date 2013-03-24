@@ -4,10 +4,12 @@ layout: home
 slides:
     - img:   960/birds.jpg
       title: Wild bird care
+    - img:   960/basketplants3.jpg
+      title: Hanging basket plants, 6 pack £6.99
     - img:   960/potatoes.jpg
       title: Seed potatoes £3.50 or 3 for £10
     - img:   960/primroses.jpg
-      title: Primroses 60p each, 10 for £5, 15 for £7.25
+      title: Primroses 60p each, 10 for £5, 15 for £7.25 
 ---
 
 # Welcome to Roots &amp; Shoots
