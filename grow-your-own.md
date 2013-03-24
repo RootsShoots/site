@@ -7,7 +7,7 @@ features:
     img: grow-house.jpg
   - title: Greenhouse heater was £39.99 now £29.99
     img: heater.jpg
-  - title: Grow more 15KG sack £14.99
+  - title: Growmore 15KG sack £14.99
     img: growmore.jpg
 ---
 
