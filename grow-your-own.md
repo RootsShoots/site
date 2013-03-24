@@ -7,7 +7,7 @@ features:
     img: grow-house.jpg
   - title: 15 cell insert £3.99
     img: cell-insert.jpg
-  - title: Heater
+  - title: Greenhouse heater was £39.99 now £29.99
     img: heater.jpg
 ---
 

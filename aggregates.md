@@ -3,6 +3,8 @@ title: Aggregates
 layout: default
 img: 620/aggregates.jpg
 features:
+  - title: Blue slate and plum slate 3 for £10
+  - title: Pea gravel, buy 2 get 1 free
 ---
 
 # Aggregates
