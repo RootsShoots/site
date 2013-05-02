@@ -1,10 +1,12 @@
 ---
 title: Pots
 layout: default
-img: 620/potspage.jpg
+img: 620/IMG_7375.JPG
 features:
-  - title: Some of our AFK planters
-    img: potssmallpic.jpg
+  - title: 
+    img: IMG_7378.JPG
+  - title: 
+    img: IMG_7402.JPG
 ---
 
 # Pots

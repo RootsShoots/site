@@ -3,10 +3,6 @@ title: Grow Your Own
 img: 620/grow-your-own.jpg
 layout: default
 features:
-  - title: 4 tier growhouse £19.99
-    img: grow-house.jpg
-  - title: Greenhouse heater was £39.99 now £29.99
-    img: heater.jpg
   - title: Growmore 15KG sack £14.99
     img: growmore.jpg
 ---
