@@ -3,6 +3,8 @@ title: Grow Your Own
 img: 620/grow-your-own.jpg
 layout: default
 features:
+  - title: Vegetable plants £1-99 per tray<br />Tomato plants from 99p
+    img: veg.jpg
   - title: Growmore 15KG sack £14.99
     img: growmore.jpg
 ---
