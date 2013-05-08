@@ -6,6 +6,8 @@ slides:
       title: Begonias ready now!
     - img:   960/bedding.jpg
       title: Bedding plants £2.50 per tray or 5 trays for £10
+    - img:   960/toms.jpg
+      title: Vegetable plants £1.99 per tray Tomato plants from 99p
     - img:   960/birds.jpg
       title: Wild bird care
 ---
