@@ -5,8 +5,6 @@ layout: default
 features:
   - title: Wild Bird Supreme Mix £11.49
     img: mix.jpeg
-  - title: ChapelWood Suet Balls 50's Refill Bag £7.99
-    img: suet-balls.jpg
   - title: ChapelWood Suet Pellets-Mealworm £5.99
     img: suet-pellets.jpg
 ---
