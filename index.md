@@ -2,6 +2,8 @@
 title: Home
 layout: home
 slides:
+    - img:   960/begonias.jpg
+      title: Begonias ready now!
     - img:   960/birds.jpg
       title: Wild bird care
     - img:   960/basketplants3.jpg
