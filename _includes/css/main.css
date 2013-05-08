@@ -203,6 +203,11 @@ a:visited:hover {
     color: #fff;
 }
 
+.slide h2 small {
+    font-size: 34px;
+    color: #fff;
+}
+
 @media (max-width: 979px) {
     .slider-container,
     .slide {
