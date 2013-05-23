@@ -5,7 +5,7 @@ img: 620/compost.jpg
 features:
   - title: Erin Multipurpose Compost<br /> 60L £4.49 or 3 for £12
     img: erin-multi-purpose.jpg
-  - title: Levington Multi Purpose<br />50L  50L £5.99 per bag, 2 bags for £10
+  - title: Levington Multi Purpose<br /> 50L £5.99 per bag, 2 bags for £10
     img: levington-multi-purpose.jpg
   - title: Erin Excel Vegetable Planter £3.99
 ---
