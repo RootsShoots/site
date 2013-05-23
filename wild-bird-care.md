@@ -5,8 +5,7 @@ layout: default
 features:
   - title: Wild Bird Supreme Mix £11.49
     img: mix.jpeg
-  - title: ChapelWood Suet Pellets-Mealworm £5.99
-    img: suet-pellets.jpg
+  - title: 50 Fat Snax only £7.99
 ---
 
 # Wild Bird Care
