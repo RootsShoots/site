@@ -6,6 +6,7 @@ features:
   - title: Wild Bird Supreme Mix £11.49
     img: mix.jpeg
   - title: 50 Fat Snax only £7.99
+    img: balls.jpg
 ---
 
 # Wild Bird Care
