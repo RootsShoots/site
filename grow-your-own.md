@@ -9,7 +9,6 @@ features:
     img: fbb.jpg
 ---
 
-
 # Grow Your Own
 
 At Roots & Shoots we aim to help you to grow your own. For your allotment, garden or even windowsill we provide all you need including seeds, propagators, compost, canes, cloches and much more.
