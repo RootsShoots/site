@@ -6,7 +6,6 @@ features:
   - img: shrubs.jpg
     title: We have a large range of shrubs and trees
   - img: smlplants.jpg
-    title: Bedding plants £2.50 a tray, mix and match any 5 trays for £10
 ---
 
 # Plants
