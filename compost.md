@@ -34,7 +34,7 @@ Levington, Erin and Murphy
 
 <p><b>Westland 50 ltr Multi-Purpose Compost <br /> £3.99 per bag, 3 bags for £10</b></p>
 
-<p><img alt=" Westland 50 ltr Multi-Purpose Compost <br /> £3.99 per bag, 3 bags for £10" src="img/westlands.jpg" /></p>
+<p><img alt=" Westland 50 ltr Multi-Purpose Compost £3.99 per bag, 3 bags for £10" src="img/westlands.jpg" /></p>
 
 <p><b>Erin Gro'bag 35ltr £1.99</b></p>
 
