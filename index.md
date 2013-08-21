@@ -8,7 +8,7 @@ slides:
       title: Winter Pansies Ready Now! 
     - img:   960/birds.jpg
       title: Wild Bird Care
-    - img:   960/FenceBanner.JPG
+    - img:   960/FenceBanner.jpg
       title: New Range of Fencing
 ---
 
