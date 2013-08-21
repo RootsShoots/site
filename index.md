@@ -2,10 +2,8 @@
 title: Home
 layout: home
 slides:
-    - img:   960/begonias.jpg
-      title: Begonias ready now!
-    - img:   960/bedding.jpg
-      title: PLANT SALE
+    - img:   960/Giftsbanner960.jpg
+      title: New Range of Gifts
     - img:   960/birds.jpg
       title: Wild bird care
 ---
