@@ -1,2 +1,3 @@
-cd ~/Documents/site
+cd ~/Sites/site
 jekyll serve --watch
+
