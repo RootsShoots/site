@@ -134,7 +134,7 @@ a:visited:hover {
 .logo {
     display: block;
     max-width: 300px;
-    background: no-repeat url(../img/logo.svg);
+    background: no-repeat url(../img/logo.png);
     background-size: 100% auto;
 }
 
