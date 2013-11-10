@@ -2,14 +2,16 @@
 title: Home
 layout: home
 slides:
-    - img:   960/Giftsbanner960.jpg
+    - img:   960/Woodlandgifts960.jpg
       title: New Range of Gifts
-    - img:   960/PansiesForBanner.jpg
-      title: Winter Pansies Ready Now! 
+    - img:   960/minicyclamen960.jpg
+      title: Winter Bedding Plants 
     - img:   960/birds.jpg
       title: Wild Bird Care
     - img:   960/FenceBanner.jpg
       title: New Range of Fencing
+    - img:   960/Barrels2960.jpg
+      title: Oak Barrels Now In Stock
 ---
 
 # Welcome to Roots &amp; Shoots
