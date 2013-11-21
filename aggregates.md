@@ -6,7 +6,7 @@ features:
   - img: Plumslate.jpg
   - img: GreenSlate.jpg
   - img: Blueslate.jpg
-  - title: Green, Blue or Plum slate, 3 for £12
+  - title:      Green, Blue or Plum slate, 3 for £12
   - title: Pea Gravel, buy 2 get 1 free
 ---
 
