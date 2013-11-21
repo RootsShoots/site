@@ -2,6 +2,8 @@
 title: Home
 layout: home
 slides:
+    - img:   960/Log960.jpg
+      title: Winter Fuel At Low Prices
     - img:   960/Woodlandgifts960.jpg
       title: New Range of Gifts
     - img:   960/minicyclamen960.jpg
@@ -10,8 +12,6 @@ slides:
       title: Wild Bird Care
     - img:   960/FenceBanner.jpg
       title: New Range of Fencing
-    - img:   960/Barrels2960.jpg
-      title: Oak Barrels Now In Stock
 ---
 
 # Welcome to Roots &amp; Shoots
