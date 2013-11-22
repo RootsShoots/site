@@ -1,6 +1,6 @@
 ---
 title: Christmas
-img: 620/grow-your-own.jpg
+img: 620/Gift620.jpg
 layout: default
 features:
   - title: Wilkinson Sword Anvil Pruner RRP £19.99 now £14.99
