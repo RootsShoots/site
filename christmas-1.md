@@ -15,8 +15,8 @@ At Roots & Shoots we've got a large selection of gift ideas for this festive sea
 
 <div class="row-fluid">
     <div class="span6">
-        <p><b>Lawn feed weed and moss killer, 400m<sup>2</sup> sack £19.99</b></p>
-        <p><center><img src="img/lawnfeed.jpg" alt="Lawn feed" /></center></p>
+        <p><b>Feeding Station, 400m<sup>2</sup> RRP £24.99 Now £14.99</b></p>
+        <p><center><img src="img/feedingstation.jpg" alt="Lawn feed" /></center></p>
     </div>
     <div class="span6">
         <p><b>7KG poultry manure £7.99,<br /> 10KG bonemeal £13.99,<br /> 10KG fish blood and bone £13.99</b></p>
