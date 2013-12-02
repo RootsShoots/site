@@ -15,11 +15,11 @@ At Roots & Shoots we've got a large selection of gift ideas for this festive sea
 
 <div class="row-fluid">
     <div class="span6">
-        <p><b>Feeding Station, 400m<sup>2</sup> RRP £24.99 Now £14.99</b></p>
+        <p><b>Feeding Station <sup>2</sup> RRP £24.99 Now £14.99</b></p>
         <p><center><img src="img/feedingstation.jpg" alt="Lawn feed" /></center></p>
     </div>
     <div class="span6">
-        <p><b>7KG poultry manure £7.99,<br /> 10KG bonemeal £13.99,<br /> 10KG fish blood and bone £13.99</b></p>
-        <p><center><img src="img/tubs.jpg" alt="tubs" /></center></p>
+        <p><b>Deluxe Feeding Station RRP £29.99 Now £19.99<</b></p>
+        <p><center><img src="img/deluxefeeding.jpg" alt="tubs" /></center></p>
     </div>
 </div>
