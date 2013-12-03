@@ -15,7 +15,7 @@ At Roots & Shoots we've got a large selection of gift ideas for this festive sea
 
 <div class="row-fluid">
     <div class="span6">
-        <p><b>Feeding Station, 400m<sup>2</sup> RRP £24.99 Now £14.99</b></p>
+        <p><b>Feeding Station <sup>2</sup> RRP £24.99 Now £14.99</b></p>
         <p><center><img src="img/feedingstation.jpg" alt="Lawn feed" /></center></p>
     </div>
     <div class="span6">
