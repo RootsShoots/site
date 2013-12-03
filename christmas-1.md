@@ -20,6 +20,6 @@ At Roots & Shoots we've got a large selection of gift ideas for this festive sea
     </div>
     <div class="span6">
         <p><b>Deluxe Feeding Station RRP £29.99 Now £19.99 </b></p>
-        <p><center><img src="img/deluxefeeding.jpg" alt="tubs" /></center></p>
+        <p><center><img src="img/deluxefeeding.jpg" alt="Deluxe" /></center></p>
     </div>
 </div>
