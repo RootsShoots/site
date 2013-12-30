@@ -1,7 +1,7 @@
 ---
 title: Plants
 layout: default
-img: 620/plantpage.jpg
+img: 620/620primr.jpg
 features:
   - img: shrubs.jpg
     title: We have a large range of shrubs and trees
