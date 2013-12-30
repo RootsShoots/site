@@ -11,7 +11,7 @@ features:
 
 # Seed Potatoes
 
-At Roots & Shoots we've got an extensive range of seed potatoes.
+At Roots & Shoots we've got an extensive range of seed potatoes. £3.99 per bag or 3 bags for £10
 
 <div class="row-fluid">
     <div class="span6">
