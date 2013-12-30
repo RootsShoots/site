@@ -1,5 +1,5 @@
 ---
-title: Christmas
+title: Seed Potatoes
 img: 620/christmasbacking.jpg
 layout: default
 features:
