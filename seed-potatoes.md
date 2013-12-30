@@ -9,9 +9,9 @@ features:
     img: bypassloppers.jpg
 ---
 
-# Christmas
+# Seed Potatoes
 
-At Roots & Shoots we've got a large selection of gift ideas for this festive season. We also have an extensive range of both cut and potted christmas trees.
+At Roots & Shoots we've got an extensive range of seed potatoes.
 
 <div class="row-fluid">
     <div class="span6">
