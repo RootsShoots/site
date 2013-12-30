@@ -4,12 +4,13 @@ layout: home
 slides:
     - img:   960/primroses.jpg
       title: Primroses Ready Now
+    - img:   960/Potatobanner.jpg
+      title: Seed Potatoes 3 Bags For £10
     - img:   960/Log960.jpg
       title: Winter Fuel At Low Prices
     - img:   960/Woodlandgifts960.jpg
       title: New Range of Gifts
-    - img:   960/minicyclamen960.jpg
-      title: Winter Bedding Plants 
+ 
     - img:   960/birds.jpg
       title: Wild Bird Care
     - img:   960/FenceBanner.jpg
