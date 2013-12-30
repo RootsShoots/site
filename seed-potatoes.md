@@ -3,10 +3,10 @@ title: Seed Potatoes
 img: 620/oldpotatoes.jpg
 layout: default
 features:
-  - title: Wilkinson Sword Anvil Pruner RRP £19.99 now £14.99
-    img: anvilpruner.jpg
-  - title: Wilkinson Sword Telescopic Lopper RRP £39.99 now £34.99
-    img: bypassloppers.jpg
+  - title: Joseph Bentley Potato Fork £22.99
+    img: potatofork.jpg
+  - title: Potato Tubs Twin Pack £7.99
+    img: Potatobags.jpg
 ---
 
 # Seed Potatoes
