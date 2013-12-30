@@ -1,6 +1,6 @@
 ---
 title: Seed Potatoes
-img: 620/christmasbacking.jpg
+img: 620/oldpotatoes.jpg
 layout: default
 features:
   - title: Wilkinson Sword Anvil Pruner RRP £19.99 now £14.99
