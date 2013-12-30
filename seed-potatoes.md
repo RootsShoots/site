@@ -15,11 +15,11 @@ At Roots & Shoots we've got an extensive range of seed potatoes. £3.99 per bag 
 
 <div class="row-fluid">
     <div class="span6">
-        <p><b>Potato Food £5.99</b></p>
+        <p><b>Miracle-Gro FBB £5.99</b></p>
         <p><center><img src="img/potatofood.jpg" alt="PotatoFeed" /></center></p>
     </div>
     <div class="span6">
-        <p><b>Deluxe Feeding Station RRP £29.99 Now £19.99 </b></p>
-        <p><center><img src="img/deluxefeeding.jpg" alt="Deluxe" /></center></p>
+        <p><b>Miracle-Gro Superphosphate £4.99 </b></p>
+        <p><center><img src="img/superphosphate.jpg" alt="Deluxe" /></center></p>
     </div>
 </div>
