@@ -2,8 +2,8 @@
 title: Home
 layout: home
 slides:
-    - img:   960/christmastrees.jpg
-      title: Christmas Trees Now In
+    - img:   960/primroses.jpg
+      title: Primroses Now In
     - img:   960/Log960.jpg
       title: Winter Fuel At Low Prices
     - img:   960/Woodlandgifts960.jpg
