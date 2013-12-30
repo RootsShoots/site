@@ -3,7 +3,7 @@ title: Home
 layout: home
 slides:
     - img:   960/primroses.jpg
-      title: Primroses Ready Now
+      title: Primroses Ready Now, 15 for £7.99
     - img:   960/Potatobanner.jpg
       title: Seed Potatoes 3 Bags For £10
     - img:   960/Log960.jpg
