@@ -10,8 +10,6 @@ slides:
       title: Winter Fuel At Low Prices
     - img:   960/Woodlandgifts960.jpg
       title: New Range of Gifts
-    - img:   960/birds.jpg
-      title: Wild Bird Care
     - img:   960/FenceBanner.jpg
       title: New Range of Fencing
 ---
