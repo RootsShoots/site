@@ -16,7 +16,7 @@ At Roots & Shoots we've got an extensive range of seed potatoes. £3.99 per bag 
 <div class="row-fluid">
     <div class="span6">
         <p><b>Feeding Station RRP £24.99 Now £14.99</b></p>
-        <p><center><img src="img/feedingstation.jpg" alt="Feeding Station" /></center></p>
+        <p><center><img src="img/potatofood.jpg" alt="Feeding Station" /></center></p>
     </div>
     <div class="span6">
         <p><b>Deluxe Feeding Station RRP £29.99 Now £19.99 </b></p>
