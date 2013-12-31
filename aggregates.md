@@ -12,4 +12,9 @@ features:
 
 # Aggregates
 
-We stock many different varieties of decorative stone, slate, gravel and slabs. We are always happy to help load your car. Delivery available, please ask for details.
+
+We stock a range of stone products suitable for any garden. You will find a range of horticultural aggregates including horticultural and alpine grit. Additionally we stock a range of aggregates for creative gardens including slates and stone chippings.
+
+At Roots & Shoots we also maintain a range of paving slabs and patio kits in a range of colours.
+
+We are always happy to help load your car if necessary. Delivery available, please phone or ask in store for details
