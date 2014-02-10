@@ -2,6 +2,8 @@
 title: Home
 layout: home
 slides:
+    - img:   960/cutflowers1.jpg
+      title: Cut Flowers Now Available
     - img:   960/primroses.jpg
       title: Primroses Ready Now, 15 for £7.99
     - img:   960/Potatobanner.jpg
