@@ -19,7 +19,7 @@ Gardman, Chapelwood and Jacobi Jayne products.
 
 <div class="row-fluid">
     <div class="span6">
-        <p><b>Gardman Fat Snax 6 pack £1.49</b></p>
+        <p><b>Gardman Fat Snax 6 pack NOW 99p</b></p>
         <p><center><img src="img/sixballs.jpg" alt="Lawn feed" /></center></p>
     </div>
     <div class="span6">
