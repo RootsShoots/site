@@ -3,7 +3,7 @@ title: Winter Fuel
 layout: default
 img: 620/fuelpage.jpg
 features:
-  - title: Log Sacks £4.99 each 2 Sacks for £8
+  - title: Log Sacks £4.99 each 2 Sacks for £8   
     img: smllogs.jpg
   - title: Smokeless Coal 10kg £5.99  
     img: hosuecoal.jpg
