@@ -15,7 +15,7 @@ features:
 
 Our range of compost covers various types of Multipurpose, Ericaceous,
 Tree & Shrub and Seed & Cutting, among others. Suppliers include
-Levington, Erin and Murphy
+Levington, Erin and Westland
 
 <div class="row-fluid space-img">
     <div class="span6">
