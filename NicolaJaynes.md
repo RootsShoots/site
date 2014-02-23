@@ -5,8 +5,8 @@ img: floristmain1.jpg
 features:
   - title: Princess' Bouquet From £25   
     img: princessbouquet.jpg
-  - title: Wedding Arrangements Available
-    img: weddingbunch.jpg
+  - title: Funeral Arrangements Available
+    img: callalily.jpg
 ---
 
 
