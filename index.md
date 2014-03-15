@@ -4,14 +4,8 @@ layout: home
 slides:
     - img:   960/cutflowers1.jpg
       title: Cut Flowers Now Available
-    - img:   960/primroses.jpg
-      title: Primroses Ready Now, 15 for £7.99
     - img:   960/Potatobanner.jpg
       title: Seed Potatoes 3 Bags For £10
-    - img:   960/Log960.jpg
-      title: Winter Fuel At Low Prices
-    - img:   960/Woodlandgifts960.jpg
-      title: New Range of Gifts
     - img:   960/FenceBanner.jpg
       title: New Range of Fencing
 ---
