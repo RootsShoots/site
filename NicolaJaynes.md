@@ -15,7 +15,7 @@ features:
 
 New to Roots & Shoots is Nicola Jayne's Flowers. Offering carefully selected flowers and arrangements for all occasions. Whether it be Weddings, Funerals or Birthdays we have a diverse range of flowers to suit any budget
 
-Call now to place orders for Mother's Day!
+Free Local Delivery
 
 
-Mobile: 01449 257300
+Call: 01449 257300
