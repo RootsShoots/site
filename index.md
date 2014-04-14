@@ -2,6 +2,8 @@
 title: Home
 layout: home
 slides:
+    - img:   960/rootscake.jpg
+      title: Garden Cafe Now Open
     - img:   960/cutflowers1.jpg
       title: Cut Flowers Now Available
     - img:   960/FenceBanner.jpg
