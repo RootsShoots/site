@@ -4,7 +4,7 @@ layout: home
 slides:
     - img:   960/rootscake.jpg
       title: Garden Cafe Now Open
-    - img:   960/beddingplants2014.jpg
+    - img:   960/bedding.jpg
       title: Bedding Plants 5 Trays for £10
     - img:   960/trailing plants 2014.jpg
       title: Large Selection of Basket Plants
