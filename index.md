@@ -5,9 +5,7 @@ slides:
     - img:   960/rootscake.jpg
       title: Garden Cafe Now Open
     - img:   960/bedding.jpg
-      title: Bedding Plants 5 Trays for £10
-    - img:   960/begonias.jpg
-      title: Begonias Ready Now
+      title: Plant Sale Now On
     - img:   960/cutflowers1.jpg
       title: Cut Flowers Now Available
     - img:   960/FenceBanner.jpg
